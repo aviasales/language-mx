@@ -1,0 +1,23 @@
+{
+  "name": "language-mx",
+  "version": "1.0.0",
+  "description": "MX language package for Atom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviasales/language-mx.git"
+  },
+  "keywords": [],
+  "author": "a-wart",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "bugs": {
+    "url": "https://github.com/aviasales/language-mx/issues"
+  },
+  "homepage": "https://github.com/aviasales/language-mx#readme"
+}
